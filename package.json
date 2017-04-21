@@ -36,7 +36,7 @@
     "nodemon": "^1.11.0"
   },
   "engines": {
-    "node": "6.x",
+    "node": "6.1.1",
     "typescript": "~2.1.0"
   }
 }
